@@ -1,0 +1,12 @@
+/Users/szymongrysiewicz/repos/spring-boot-learning/app/my-app/src/main/java/com/mycompany/app/Main.java
+/Users/szymongrysiewicz/repos/spring-boot-learning/app/my-app/src/main/java/com/mycompany/app/exception/ApiException.java
+/Users/szymongrysiewicz/repos/spring-boot-learning/app/my-app/src/main/java/com/mycompany/app/exception/InvalidDataException.java
+/Users/szymongrysiewicz/repos/spring-boot-learning/app/my-app/src/main/java/com/mycompany/app/model/CompanyStatistics.java
+/Users/szymongrysiewicz/repos/spring-boot-learning/app/my-app/src/main/java/com/mycompany/app/model/Employee.java
+/Users/szymongrysiewicz/repos/spring-boot-learning/app/my-app/src/main/java/com/mycompany/app/model/ImportSummary.java
+/Users/szymongrysiewicz/repos/spring-boot-learning/app/my-app/src/main/java/com/mycompany/app/model/Position.java
+/Users/szymongrysiewicz/repos/spring-boot-learning/app/my-app/src/main/java/com/mycompany/app/service/ApiException.java
+/Users/szymongrysiewicz/repos/spring-boot-learning/app/my-app/src/main/java/com/mycompany/app/service/ApiService.java
+/Users/szymongrysiewicz/repos/spring-boot-learning/app/my-app/src/main/java/com/mycompany/app/service/EmployeeService.java
+/Users/szymongrysiewicz/repos/spring-boot-learning/app/my-app/src/main/java/com/mycompany/app/service/ImportService.java
+/Users/szymongrysiewicz/repos/spring-boot-learning/app/my-app/src/main/java/com/mycompany/app/service/ImportSummary.java

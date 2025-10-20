@@ -1,0 +1,9 @@
+firstName,lastName,email,company,position,salary
+Adam,Nowicki,adam.nowicki@techcorp.pl,TechCorp,PREZES,25000
+Ewa,Kowalczyk,ewa.kowalczyk@techcorp.pl,TechCorp,MANAGER,12000
+Marek,Zieliński,marek.zielinski@techcorp.pl,TechCorp,PROGRAMISTA,8000
+Zofia,Wiśniewska,zofia.wisniewska@softdev.pl,SoftDev,WICEPREZES,18000
+Tomasz,Nowak,tomasz.nowak@softdev.pl,SoftDev,PROGRAMISTA,8500
+Katarzyna,Wiśniewska,katarzyna.wisniewska@techcorp.pl,TechCorp,STAZYSTA,3000
+Invalid,Employee,invalid.email@techcorp.pl,TechCorp,INVALID,5000
+Negative,Salary,negative.salary@techcorp.pl,TechCorp,PROGRAMISTA,-5000
